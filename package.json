@@ -1,0 +1,22 @@
+{
+  "name": "whla",
+  "version": "1.0.0",
+  "description": "Wisconsin Health Law Associates website development.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "whla"
+  },
+  "author": "Clayton M Allen III",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "6.3.1"
+  }
+}
